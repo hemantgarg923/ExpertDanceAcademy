@@ -53,7 +53,7 @@
     font-family: 'Ubuntu', sans-serif;
     font-size: 45px;
     align-items: center;
-    background: url(/static/bg.jpg) no-repeat center center/cover;
+    background: url(/assets/bg.jpg) no-repeat center center/cover;
     height: 425px;
     background-color: red;
 }
